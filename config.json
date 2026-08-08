@@ -1,0 +1,14 @@
+{
+    "max_accounts_per_ip": 3,
+    "delay_between_accounts": 30,
+    "delay_between_actions": 2,
+    "max_retries": 3,
+    "headless_mode": false,
+    "use_proxy": true,
+    "use_2captcha": false,
+    "two_captcha_api_key": "",
+    "save_accounts_to_file": true,
+    "accounts_file": "facebook_accounts.json",
+    "proxy_file": "proxies.txt",
+    "log_file": "fb_creator.log"
+}
