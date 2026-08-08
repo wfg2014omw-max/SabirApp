@@ -56,7 +56,7 @@ from telegram.ext import (
 # ==========================================
 # ⚙️ CORE CONFIGURATION & CONSTANTS
 # ==========================================
-TELEGRAM_TOKEN = "8265031988:AAFLdci-eVMHlGU-O5K4N4se_dJFDPmRdnc"
+TELEGRAM_TOKEN = "8265031988:AAGAnCmpQNtFx3ZSfF_BLAiqbd5XU7jpmHI"
 ADMIN_ID = 5284917152
 ADMIN_USERNAME = "@SabirFathy20"
 
