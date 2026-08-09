@@ -12,6 +12,8 @@ Framework: Python 3.10+ / Telegram-Bot / Flask / MongoDB / G4F (GPT-4 Free)
 
 from pymongo import MongoClient
 import certifi
+import sys
+print("🚀 بدأ تشغيل سكريبت البوت...", flush=True)
 import os
 import re
 import json
